@@ -33,5 +33,5 @@
     * label x axis
         * xaxis: {title: "OTU ID"}
 
-### data source ###
+## data source ##
 Belly Button Biodiversity dataset: https://robdunnlab.com/projects/belly-button-biodiversity/
